@@ -1,50 +1,43 @@
-# Hello, Hello :)
+# hi, I'm Shruthi :)
 
-## Hi, I'm Shruthi
+CS student at UTSA building software, data systems, and AI-assisted tooling for organizations that need them most — startups, nonprofits, and teams where good infrastructure can quietly change how people work.
 
-I build and write with intention, where practical software meets real human needs. My work is grounded in clarity, utility, and an awareness of how systems behave in the world — especially where those behaviors intersect with people's lived experiences.
+I'm especially drawn to problems where the people who most need good software are often the last to get it.
 
-I care about how systems fail, how people experience those failures, and how tooling can reduce friction instead of adding to it.
-
----
-
-## 🚀 Featured Projects
-
-- **Saheli Navigation** — A map-first safety app that visualizes women-safe sanitation infrastructure with clear status markers and accessibility filters  
-- **LogLens** — A Python library and CLI that transforms noisy application logs into clear, human-readable timelines  
-- **TinyShell** — A custom Unix shell written in C implementing core POSIX shell functionality with process management  
-- **UserSpace Job Scheduler** — A user-space round-robin process scheduler using POSIX signals and timers  
-- **Desmond Encryption** — A secure encryption messaging system for encrypting and decrypting messages  
-- **Portfolio Website** — A newspaper-style personal portfolio website built with TypeScript  
+Most of my work lives somewhere between developer tooling, automation, operational infrastructure, and human-centered systems design.
 
 ---
 
-## 💻 Tech Stack
+## what I'm working on
 
-**Languages**  
-Python · C · Java · TypeScript · JavaScript · Bash  
-
-**Systems & Tools**  
-Linux · Git · CLI Development · Docker  
-
-**Focus Areas**  
-Systems Programming · Developer Tools · Security · Log Analysis · Human-Centered Design  
+- **[Saheli](https://github.com/shruthisenthilarasu/Saheli-Navigation)** — map-first safety app for locating women-safe public sanitation infrastructure, designed for offline-first, low-connectivity environments
+- **[LogLLM](https://github.com/shruthisenthilarasu/LogLLM)** — end-to-end NLP pipeline fine-tuning DistilBERT to automatically classify system logs into INFO, WARNING, and ERROR
+- **[TinyShell](https://github.com/shruthisenthilarasu/TinyShell)** — Unix shell written in C from the ground up with process creation, piping, I/O redirection, and signal handling
+- **[Student Funnel & Equity Audit](https://github.com/shruthisenthilarasu/Student-Funnel-Analysis-Equity-Audit)** — data-first analysis of re-enrollment outcomes identifying where stopped-out students actually disappear, not where institutions assume
+- **[MetricForge](https://github.com/shruthisenthilarasu/MetricForge)** — programmable analytics framework for defining metrics declaratively and executing aggregations across time windows and dimensions
+- **[behavioral-bench](https://github.com/shruthisenthilarasu/behavioral-bench)** — synthetic behavioral signal generator and benchmark harness for human vs. bot detection research
 
 ---
 
-## 🎯 What I Care About
+## stack
 
-- Impact-driven technology that answers real needs  
-- Safety, access, and visibility in public systems  
-- Developer experience and observability  
-- Software that respects how people actually work  
-- Building tools that reduce friction rather than adding to it  
+Python · TypeScript · JavaScript · SQL · C · React Native · Claude API · Git · Docker
 
 ---
 
-## 🌱 Currently Exploring
+## currently
 
-- Systems-level design and infrastructure  
-- Command-line interfaces with clear, extensible abstractions  
-- Writing code that remains readable and maintainable  
-- Building impact-oriented tools under the Axiom umbrella  
+- Building a website for Berry Medicine, an Indigenous maternal health nonprofit in Montana
+- Writing technical essays about AI adoption, operational friction, and resilient systems on [Medium](https://medium.com/@shruthi.senth)
+- Exploring developer tooling, infrastructure design, and AI-assisted workflows
+- Available for internships & contract work now · Full-time from December 2026
+
+---
+
+## also
+
+I write about the systems behind the software — infrastructure failures, operational friction, accessibility, and the ways technology shapes everyday experiences. Find it on [Medium](https://medium.com/@shruthi.senth).
+
+---
+
+*Technology should reduce friction, not create more of it.*
