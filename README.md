@@ -41,3 +41,11 @@ I write about the systems behind the software — infrastructure failures, opera
 ---
 
 *Technology should reduce friction, not create more of it.*
+
+---
+
+## contribution arcade
+
+![Pac-Man contribution graph](./arcade-contributions.svg)
+
+_Generated with [pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)._
