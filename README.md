@@ -42,3 +42,13 @@ I write about the systems behind the software — infrastructure failures, opera
 
 *Technology should reduce friction, not create more of it.*
 
+---
+
+## contributions, but make it a game
+
+<picture>
+  <img
+    alt="Animated Snake game eating Shruthi's GitHub contributions"
+    src="https://raw.githubusercontent.com/shruthisenthilarasu/shruthisenthilarasu/output/contribution-snake.svg"
+  >
+</picture>
